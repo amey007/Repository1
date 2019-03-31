@@ -7,7 +7,7 @@ public class Hello {
 		{
         System.out.println("Welcome to Jenkins..."+i);
 	    }
-        System.out.println("\n");
+        System.out.println("JDK Updated for Jenkins");
         
         System.out.println("Job Done successfully....");
 	}

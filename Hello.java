@@ -7,6 +7,8 @@ public class Hello {
 		{
         System.out.println("Welcome to Jenkins..."+i);
 	    }
-
+        System.out.println("\n\n");
+        
+        System.out.println("Job Done successfully....");
 	}
 }
